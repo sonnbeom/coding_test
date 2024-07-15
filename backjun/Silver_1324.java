@@ -10,5 +10,8 @@ public class Silver_1324 {
         for (int i = 0; i < t; i++) {
             arr[i] = sc.nextInt();
         }
+        for (int i = 0; i < t; i++) {
+
+        }
     }
 }
